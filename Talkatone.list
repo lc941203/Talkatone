@@ -1,10 +1,12 @@
 # NAME:Talkatone
 # AUTHOR:Talkatone
 # REPO:https://github.com/lc941203/Talkatone/edit/main/Talkatone.list
-# UPDATED: 2023-11-27 10:39:46
+# UPDATED: 2024-4-29 09:05:00
 # IP-CIDR:4
-# DOMAIN-SUFFIX: 1
+# DOMAIN-SUFFIX: 3
 DOMAIN-SUFFIX,tktn.be
+DOMAIN-SUFFIX,talkatone.com
+DOMAIN-SUFFIX,mobilefuse.com
 IP-CIDR,50.117.27.0/24
 IP-CIDR,69.46.75.0/24
 IP-CIDR,205.164.56.29/24
